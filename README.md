@@ -3,5 +3,5 @@
 <ol>
     <li>Section-9 => Data Base Operations CRUD.</li>
     <li>Section-10 => Basic Queries => GROUP, SORT, JOINS  </li>
-    <li>Section-11 => DDL => ALTER TABLE, CONSTRAINTS </li>
+    <li>Section-11 => DDL => ALTER TABLE, CONSTRAINTS, INDEXES </li>
 </ol>
