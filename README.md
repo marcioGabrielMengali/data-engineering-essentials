@@ -6,4 +6,5 @@
     <li>Section-11 => DDL => ALTER TABLE, CONSTRAINTS, INDEXES </li>
     <li>Section-12 => PARTITIONING TABLES AND INDEXES </li>
     <li>Section-13 => PREDIFINED FUNCTIONS </li>
+    <li>Section-14 => WRITING ADVANCED QUERIES </li>
 </ol>
